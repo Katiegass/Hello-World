@@ -18,9 +18,13 @@ In this project, I created an Excel-based analysis using a dataset of student gr
 
 Using Excel, I performed regression analysis to identify which factors had the strongest impact on student grades. I also calculated correlations between variables to see how they were related. In addition, I created pivot tables and other visual summaries to organize and interpret the data more effectively. Overall, this project helped me strengthen my data analysis skills and gain experience working with real-world datasets.
 
+I determined that:
+ > "None of the independent variables are strongly correlated with one another, meaning that no key assumptions are violated and we can proceed with the regression model using all of these variables."
+
+
 ## Tools Used
 
-I used Excel in this project in order to clean, manipulate, and conclude results from a large set of data.
+I used **Excel** in this project in order to clean, manipulate, and conclude results from a large set of data.
 
 ## Files Used
 
