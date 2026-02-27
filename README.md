@@ -1,5 +1,5 @@
 # Hello-World
-First Repository
+***First Repository***
 
 ## Table of contents
 
@@ -24,7 +24,7 @@ I determined that:
 
 ## Tools Used
 
-I used **Excel** in this project in order to clean, manipulate, and conclude results from a large set of data.
+I used Excel in this project in order to clean, manipulate, and conclude results from a large set of data.
 
 ## Files Used
 
