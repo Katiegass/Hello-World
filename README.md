@@ -28,4 +28,4 @@ I used Excel in this project in order to clean, manipulate, and conclude results
 
 ## Files Used
 
-Here is the file I used to complete this project with all data included: https://iowa-my.sharepoint.com/:x:/r/personal/katgass_uiowa_edu/Documents/PROJECT%201%20BUSINESS%20ANALYTICS.xlsx?d=wd386b5fc361844eeb0898c62974fedcc&csf=1&web=1&e=jAZpCv
+Here is the file I used to complete this project with all data included [here](https://iowa-my.sharepoint.com/:x:/r/personal/katgass_uiowa_edu/Documents/PROJECT%201%20BUSINESS%20ANALYTICS.xlsx?d=wd386b5fc361844eeb0898c62974fedcc&csf=1&web=1&e=jAZpCv)
